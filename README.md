@@ -1,33 +1,50 @@
-# Project Manager Profile
+## Hi there 👋 It's me Padmanaban
 
-## Introduction
-Hello there! I'm [Your Name], a seasoned project manager with a passion for bringing ideas to life through effective planning, coordination, and execution. With [X] years of experience in project management across various industries, I thrive in dynamic environments where collaboration and problem-solving are key.
+Project Manager @ Caterpillar
+<img align="right" width="370" height="290" src="https://pin.it/6HyC2aHWu">
+- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🌱 I’m currently learning Power App
+- 👯 I’m looking to collaborate on PERT Analysis, Dashboard creation, Project Management.
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/padmanaban1996) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/padmanaban-s/)
 
-## Skills
-- **Project Planning & Execution:** Proficient in developing comprehensive project plans, defining scope, timelines, and deliverables, and ensuring successful project execution within budget and schedule constraints.
-- **Team Leadership:** Experienced in leading cross-functional teams, fostering a collaborative team culture, and empowering team members to achieve their full potential.
-- **Communication:** Strong communication skills, both verbal and written, with a proven ability to effectively convey complex ideas and build consensus among stakeholders.
-- **Risk Management:** Skilled in identifying project risks, developing risk mitigation strategies, and proactively addressing issues to minimize impact on project objectives.
-- **Stakeholder Management:** Adept at managing relationships with internal and external stakeholders, including clients, vendors, and senior management, to ensure alignment and project success.
-- **Agile Methodologies:** Familiar with Agile principles and methodologies, including Scrum and Kanban, and experienced in implementing Agile practices to enhance project delivery and adaptability.
 
-## Experience
-### [Current Position/Recent Position]
-**Company Name** - [Location]
-- Led a team of [X] project professionals in delivering [describe the project or projects] on time and within budget, resulting in [specific outcome or achievement].
-- Collaborated with stakeholders to define project requirements, scope, and success criteria, ensuring alignment with organizational goals and objectives.
-- Implemented Agile methodologies to improve project transparency, collaboration, and responsiveness to changing business needs.
-- Managed project risks and issues through proactive identification, assessment, and mitigation strategies, minimizing disruptions to project timelines and deliverables.
+## Tool Expertise
+<img height="20" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346.png"/> <img height="20" width="120" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.png"/> <img height="20" width="120" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4.png"/> <img height="20" width="70" src="https://img.shields.io/badge/power_bi-F2C811.png"/> <img height="20" width="120" src="https://img.shields.io/badge/-Microsoft_Project-Green.png"/> <img height="20" width="120" src="https://img.shields.io/badge/-Power_Automate-blue.png"/>
 
-### [Previous Position]
-**Company Name** - [Location]
-- Successfully managed [describe the project or projects] from initiation to closure, achieving [specific outcome or achievement].
-- Facilitated regular project meetings and status updates to keep stakeholders informed of project progress, milestones, and dependencies.
-- Conducted post-project reviews to capture lessons learned and identify opportunities for process improvement and best practices adoption.
 
-## Education
-- [Degree], [University Name], [Year]
-- [Certification], [Certifying Body], [Year]
+## High Level Accomplishment
+### Project 1
+#### Pressure chamber Design and Development
 
-## Contact
-Feel free to reach out to me via [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+>**Objective:** Designing and Development of pressure chamber to reduce downtime and external dependency.
+>
+>**Challenges:** Tight deadline, budget constraints.
+>
+>**Strategies:** Hybrid approach, frequent stakeholder collaboration, proactive risk management.
+>
+>**Outcomes:** Successful implementation within budget and schedule, enhanced Quality satisfaction.
+
+
+### Project 2
+#### Change Management - Organization Restructure.
+
+>**Objective:** Organization Restructure to reduce operation cost.
+>
+>**Challenges:** Complex user requirements, tight timeline, resource constraints.
+>
+>**Strategies:** Scrum methodology, iterative development, continuous feedback loops.
+>
+>**Outcomes:** improved employee productivity, by reducing approval time.
+
+
+
+### <img width="16" height="16" src="https://img.icons8.com/office/16/contract.png" alt="contract"/> Certification
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
