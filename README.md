@@ -2,7 +2,7 @@
 
 Project Manager @ Caterpillar
 <img align="right" width="370" height="290" src="https://pin.it/6HyC2aHWu">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://sites.google.com/view/padmanabansampathkumar/home)                                                 
 - 🌱 I’m currently learning Power App
 - 👯 I’m looking to collaborate on PERT Analysis, Dashboard creation, Project Management.
 - 💬 Ask me about Tech
